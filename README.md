@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Likes](https://badgen.org/img/zenn/sobya/likes?style=flat)](https://zenn.dev/sobya)
+[![Followers](https://badgen.org/img/zenn/sobya/followers?style=flat)](https://zenn.dev/sobya)
+[![Articles](https://badgen.org/img/zenn/sobya/articles?style=flat)](https://zenn.dev/sobya)
+
+
 <!--
 **sobaya-0141/sobaya-0141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
